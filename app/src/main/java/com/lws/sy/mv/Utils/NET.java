@@ -8,8 +8,8 @@ package com.lws.sy.mv.Utils;
  */
 
 public class NET {
-    public static final String BaseUrl = "http://lws926.51vip.biz:44579";
-    public static final String netPath = "http://lws926.51vip.biz:44579";
+    public static final String BaseUrl = "http://47.107.122.69:8080/music";
+    public static final String netPath = "http://47.107.122.69:8080/music";
     public static final String login = netPath+"/servlet/music?action=login";
     public static final String register = netPath+"/servlet/music?action=register";
     public static final String getInfo = netPath+"/servlet/music?action=getInfo";
